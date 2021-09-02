@@ -1,3 +1,4 @@
+// Using Code Push
 package com.testcodepush;
 
 import android.app.Application;

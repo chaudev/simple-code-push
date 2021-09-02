@@ -1,3 +1,4 @@
+// Using Code Push
 import React from 'react';
 import {SafeAreaView, StatusBar, Text, Image} from 'react-native';
 import {ErrorNotification} from 'green-native';
