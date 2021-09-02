@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestCodePush</string>
+
+    <!--    Code Push - Product Deployment Key   -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">H03hBqS8Mhvh1OSCEUWizhahNUWmCS6daHwSO</string>
+</resources>
